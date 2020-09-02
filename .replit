@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 Pythonoutlinks.py"
+run = "python3 Python_Stuff/outlinks.py"
